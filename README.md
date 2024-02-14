@@ -6,7 +6,7 @@ A simple self-hosted to-do list to keep track of your open and completed To-Do's
 
 A running XAMPP environment is required to host this To-Do list. Download and install XAMPP here: https://www.apachefriends.org/de/index.html
 
-In addition, the following database environment is required:
+Additionally, the following database environment is required:
 
 ```
 CREATE DATABASE todo_db;
